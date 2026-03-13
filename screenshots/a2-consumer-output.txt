@@ -1,0 +1,10 @@
+Hello Kafka!
+Event number 1
+Event number 2
+Event number 3
+Stream processing test
+Hello Kafka!
+Event number 1
+Event number 2
+Event number 3
+Stream processing test
